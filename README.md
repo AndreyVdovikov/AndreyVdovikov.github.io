@@ -1,2 +1,1 @@
-# AndreyVdovikov.github.io
-GitHub Pages
+Lending page №1
